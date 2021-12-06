@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-06T05:41:27.407Z" agent="5.0 (Windows)" etag="LP8OBuGq6A8Zz0i7K-BA" version="15.9.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-12-06T06:03:48.810Z" agent="5.0 (Windows)" etag="UzgTu4xnc_F9BiwTJdW3" version="15.9.1" type="github" pages="2">
   <diagram id="fImfwEfo9sQ7-Hv0iJXM" name="Page-1">
     <mxGraphModel dx="4463" dy="2343" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -228,7 +228,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eJK4fRN_ByV0oBGBRg2I" name="Page-2">
-    <mxGraphModel dx="2087" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1250" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="LcqxsqSKfRja4OAqbnEU-0" />
         <mxCell id="LcqxsqSKfRja4OAqbnEU-1" parent="LcqxsqSKfRja4OAqbnEU-0" />
@@ -315,19 +315,40 @@
         <mxCell id="LcqxsqSKfRja4OAqbnEU-22" value="&lt;div&gt;sudah memiliki &lt;br&gt;&lt;/div&gt;&lt;div&gt;akun&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="LcqxsqSKfRja4OAqbnEU-1">
           <mxGeometry x="-45" y="405" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LcqxsqSKfRja4OAqbnEU-23" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="LcqxsqSKfRja4OAqbnEU-1">
+        <mxCell id="LcqxsqSKfRja4OAqbnEU-23" value="user memilih login" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="LcqxsqSKfRja4OAqbnEU-1">
           <mxGeometry x="-30" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LcqxsqSKfRja4OAqbnEU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;endArrow=open;endFill=0;" edge="1" parent="LcqxsqSKfRja4OAqbnEU-1" source="LcqxsqSKfRja4OAqbnEU-24">
+        <mxCell id="LcqxsqSKfRja4OAqbnEU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;endArrow=open;endFill=0;" edge="1" parent="LcqxsqSKfRja4OAqbnEU-1" source="LcqxsqSKfRja4OAqbnEU-24" target="LcqxsqSKfRja4OAqbnEU-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LcqxsqSKfRja4OAqbnEU-24" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="LcqxsqSKfRja4OAqbnEU-1">
+        <mxCell id="LcqxsqSKfRja4OAqbnEU-24" value="user memilih register" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="LcqxsqSKfRja4OAqbnEU-1">
           <mxGeometry x="178.75" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LcqxsqSKfRja4OAqbnEU-25" value="&lt;div&gt;belum memiliki&lt;/div&gt;&lt;div&gt;akun&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="LcqxsqSKfRja4OAqbnEU-1">
           <mxGeometry x="148.75" y="405" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LcqxsqSKfRja4OAqbnEU-27" value="sistem menampilan form registrasi" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="LcqxsqSKfRja4OAqbnEU-1">
+          <mxGeometry x="400" y="560" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LcqxsqSKfRja4OAqbnEU-28" value="" style="line;strokeWidth=1;direction=south;html=1;fontSize=20;fillColor=#FFFFFF;" vertex="1" parent="LcqxsqSKfRja4OAqbnEU-1">
+          <mxGeometry x="500" y="640" width="10" height="26.25" as="geometry" />
+        </mxCell>
+        <mxCell id="LcqxsqSKfRja4OAqbnEU-29" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="LcqxsqSKfRja4OAqbnEU-1" target="LcqxsqSKfRja4OAqbnEU-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="666" as="sourcePoint" />
+            <mxPoint x="590" y="746.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LcqxsqSKfRja4OAqbnEU-30" value="" style="endArrow=open;html=1;rounded=0;fontSize=20;endFill=0;" edge="1" parent="LcqxsqSKfRja4OAqbnEU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="666" as="sourcePoint" />
+            <mxPoint x="240" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LcqxsqSKfRja4OAqbnEU-31" value="user melakukan pengisian data " style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeWidth=1;fillColor=#FFFFFF;" vertex="1" parent="LcqxsqSKfRja4OAqbnEU-1">
+          <mxGeometry x="150" y="700" width="148.75" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
