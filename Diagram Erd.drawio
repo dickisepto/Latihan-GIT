@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-10T06:22:17.668Z" agent="5.0 (Windows)" etag="xkomAzgxBBScQRfJPWqT" version="17.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-10T06:34:09.981Z" agent="5.0 (Windows)" etag="7dF-ptsY7smQpfJJZ8Lq" version="17.4.2" type="github">
   <diagram id="8k_-opimTpagwBCu9Z-Q" name="Page-1">
     <mxGraphModel dx="2065" dy="1078" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -76,25 +76,25 @@
         <mxCell id="4IQFh7qT-0xXZUofBKF6-24" value="ID_user" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="520" y="1050" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4IQFh7qT-0xXZUofBKF6-25" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="4IQFh7qT-0xXZUofBKF6-25" value="email" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="860" y="800" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4IQFh7qT-0xXZUofBKF6-26" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="4IQFh7qT-0xXZUofBKF6-26" value="&#xa;ID_user&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;align=center;" vertex="1" parent="1">
           <mxGeometry x="860" y="190" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4IQFh7qT-0xXZUofBKF6-27" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="4IQFh7qT-0xXZUofBKF6-27" value="alamat" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="990" y="730" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4IQFh7qT-0xXZUofBKF6-28" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="4IQFh7qT-0xXZUofBKF6-28" value="username" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="980" y="270" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4IQFh7qT-0xXZUofBKF6-29" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="4IQFh7qT-0xXZUofBKF6-29" value="password" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1010" y="370" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4IQFh7qT-0xXZUofBKF6-30" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="4IQFh7qT-0xXZUofBKF6-30" value="nama" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1010" y="490" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="4IQFh7qT-0xXZUofBKF6-31" value="" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="4IQFh7qT-0xXZUofBKF6-31" value="tanggal_lahir" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1010" y="610" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4IQFh7qT-0xXZUofBKF6-34" value="" style="endArrow=none;html=1;rounded=0;fontSize=20;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="4IQFh7qT-0xXZUofBKF6-4" target="4IQFh7qT-0xXZUofBKF6-26">
