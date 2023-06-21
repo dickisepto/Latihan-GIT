@@ -1,0 +1,91 @@
+<mxfile host="app.diagrams.net" modified="2023-06-21T08:52:38.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="3xzNe5JD5cSNcWeAyJ49" version="21.2.9" type="github">
+  <diagram id="i63LcJSh-EJRXZqzMWDO" name="Page-1">
+    <mxGraphModel dx="1722" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9HnXN1psznBDHZv2mMFC-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9HnXN1psznBDHZv2mMFC-2" target="9HnXN1psznBDHZv2mMFC-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="200" />
+              <mxPoint x="260" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-2" value="&lt;b&gt;Personal Komputer&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="50" y="150" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-5" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;«component»&lt;br&gt;&lt;b style=&quot;&quot;&gt;Browser&lt;/b&gt;&lt;/font&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;align=center;" parent="9HnXN1psznBDHZv2mMFC-2" vertex="1">
+          <mxGeometry x="14.696875" y="40" width="114.17812500000001" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="9HnXN1psznBDHZv2mMFC-5" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9HnXN1psznBDHZv2mMFC-18" target="9HnXN1psznBDHZv2mMFC-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="205" />
+              <mxPoint x="640" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-18" value="&lt;b&gt;Web Server&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="270" y="80" width="300" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-20" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;«component»&lt;br&gt;&lt;b style=&quot;&quot;&gt;Apache 2.4&lt;/b&gt;&lt;/font&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="290" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-21" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="9HnXN1psznBDHZv2mMFC-20" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-22" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;«component»&lt;br&gt;&lt;b&gt;PHP&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="290" y="185" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-23" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="9HnXN1psznBDHZv2mMFC-22" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;«component»&lt;br&gt;&lt;b&gt;HTML&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="290" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-25" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="9HnXN1psznBDHZv2mMFC-24" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;«component»&lt;br&gt;&lt;b&gt;Bootstrap 4&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="420" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-27" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="9HnXN1psznBDHZv2mMFC-26" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-28" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;«component»&lt;/span&gt;&lt;br&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Visual Studio Code&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="420" y="185" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-29" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="9HnXN1psznBDHZv2mMFC-28" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-30" value="&lt;b&gt;Database Server&lt;/b&gt;" style="verticalAlign=top;align=center;shape=cube;size=10;direction=south;fontStyle=0;html=1;boundedLbl=1;spacingLeft=5;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="660" y="130" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-32" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;«Annotation»&lt;br&gt;&lt;b&gt;MySQL 8.0&lt;/b&gt;&lt;/font&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="685" y="183.75" width="120" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="9HnXN1psznBDHZv2mMFC-33" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="9HnXN1psznBDHZv2mMFC-32" vertex="1">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
