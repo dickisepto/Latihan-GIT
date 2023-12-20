@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T04:41:57.256Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="QiQVkszALQJwERMya0_E" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T04:42:14.336Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="SK1h_4UMjSICinkSLpm_" version="22.1.11" type="github">
   <diagram name="Page-1" id="O3sQxSkAA--FD9c4pEWH">
     <mxGraphModel dx="1450" dy="561" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -218,7 +218,7 @@
             <mxPoint x="537" y="1292" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="n6qhDeaBuxVyRwL_v2bB-60" value="Pemberian Stemple Kelurahan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="n6qhDeaBuxVyRwL_v2bB-60" value="Pemberian Stempel Kelurahan" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="409" y="1254" width="142" height="79" as="geometry" />
         </mxCell>
       </root>
