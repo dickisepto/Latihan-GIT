@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T04:26:26.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="3I0t0g_Xb8OTgixe91oU" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T04:27:52.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="wuw3KkPN6GzKn4QvA5Ff" version="22.1.11" type="github">
   <diagram name="Page-1" id="O3sQxSkAA--FD9c4pEWH">
-    <mxGraphModel dx="1178" dy="416" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1275" dy="468" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,6 +152,15 @@
             <mxPoint x="112" y="968" as="sourcePoint" />
             <mxPoint x="483" y="967" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="n6qhDeaBuxVyRwL_v2bB-45" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="112" y="968" as="sourcePoint" />
+            <mxPoint x="112" y="991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n6qhDeaBuxVyRwL_v2bB-46" value="Memeriksa Kesesuaian Data " style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="32" y="996" width="160" height="87" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
