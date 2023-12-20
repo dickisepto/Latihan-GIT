@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T04:29:01.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="0jSwr8XYgeoeizYpu45b" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T04:29:34.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="-7EmN5fv6Pv3zidpp2JG" version="22.1.11" type="github">
   <diagram name="Page-1" id="O3sQxSkAA--FD9c4pEWH">
     <mxGraphModel dx="2309" dy="1020" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -159,8 +159,14 @@
             <mxPoint x="112" y="991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="n6qhDeaBuxVyRwL_v2bB-48" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="n6qhDeaBuxVyRwL_v2bB-46" target="n6qhDeaBuxVyRwL_v2bB-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="n6qhDeaBuxVyRwL_v2bB-46" value="Memeriksa Kesesuaian Data " style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="32" y="996" width="160" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="n6qhDeaBuxVyRwL_v2bB-47" value="" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="429" y="985.5" width="103.5" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
