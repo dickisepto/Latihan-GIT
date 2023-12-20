@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T04:32:19.434Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="LobtFHZVOHYCaVVUCAfs" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T04:32:43.169Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="shLxI9Ids_K0Lf5aeB_w" version="22.1.11" type="github">
   <diagram name="Page-1" id="O3sQxSkAA--FD9c4pEWH">
     <mxGraphModel dx="1505" dy="591" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -190,6 +190,9 @@
             <mxPoint x="675" y="655" as="sourcePoint" />
             <mxPoint x="688" y="844" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="n6qhDeaBuxVyRwL_v2bB-54" value="&lt;div&gt;Data yang dimasukkan&lt;/div&gt;&lt;div&gt;Tidak Sesuai&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="499" y="990" width="181" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
